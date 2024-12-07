@@ -1,0 +1,1 @@
+﻿Richard spent about 10-12 hours working on room.py, adventurer.py, dungeon.py and dungeon_adventure.py. Richard did the screen capture of the game. Tkinter is awesome and so are grid and canvas! Nick worked on the UML diagram and adventure.py.
